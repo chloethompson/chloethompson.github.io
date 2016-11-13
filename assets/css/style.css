@@ -78,7 +78,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-brand {
-	color: #E18700;
+	color: #e18700;
 }
 
 .navbar-default {
@@ -87,13 +87,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #E18700;
+	color: #e18700;
 	background-color: transparent;
-	border-bottom: 2px solid #E18700;
+	border-bottom: 2px solid #e18700;
 }
 
 .navbar-default .navbar-nav > li > a {
-	color: #E18700;
+	color: #e18700;
 }
 
 /* ==========================================================================
