@@ -75,7 +75,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar-brand {
 	font-weight: 800;
-  font-style: oblique;
+  font-style: bold;
 }
 
 .navbar-default .navbar-brand {
