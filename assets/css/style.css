@@ -415,9 +415,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #form{
-  float: left;
-  clear: left;
-  width: 250px;
+  margin-left: : 40px;
+  margin-right: 40px;
+  width: 100%;
   text-align: center;
 }
 
