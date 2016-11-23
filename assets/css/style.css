@@ -424,6 +424,17 @@ h1, h2, h3, h4, h5, h6 {
 .gallery img:hover {
 	opacity: 0.4;
 }
-.carousel-inner > .item .image{
-  margin: 0 auto;
+  .item {
+width: 300px;
+}
+
+.item img {
+max-height: 100%;
+max-width: 100%;
+position: absolute;
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+margin: auto;
 }
