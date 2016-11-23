@@ -414,7 +414,10 @@ h1, h2, h3, h4, h5, h6 {
     background-size: cover;
 }
 
-
+IMG.img-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
 
 /* Gallery */
 .gallery {
